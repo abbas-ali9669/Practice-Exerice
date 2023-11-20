@@ -580,7 +580,7 @@ namespace Practice_Exerice
 
         // Exercise 25
         // Check the vowel 
-        public static void checkVowel()
+        public static void checkVowellllll()
         {
             Console.Write("Enter a vowel alphabet: ");
             char alph = char.Parse(Console.ReadLine());
